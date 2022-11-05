@@ -1,10 +1,6 @@
 from tkinter import *
 import time as t
 
-
-
-
-
 def nxt_move(row,column):
     global player
 
